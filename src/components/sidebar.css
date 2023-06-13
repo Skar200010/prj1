@@ -1,0 +1,221 @@
+.sidebar-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sidebar-slide1 {
+  flex: 0 0 auto;
+  width: 1322px;
+  height: 489px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.sidebar-leftbutton {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.sidebar-container1 {
+  flex: 0 0 auto;
+  left: -6px;
+  width: 50px;
+  bottom: -288px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #e12121;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-rightbutton {
+  top: 225px;
+  flex: 0 0 auto;
+  right: -8px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #ef1414;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon02 {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-image {
+  width: 1044px;
+  height: 50vh;
+  object-fit: cover;
+}
+.sidebar-slide2 {
+  flex: 0 0 auto;
+  width: 1322px;
+  height: 489px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.sidebar-leftbutton1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.sidebar-container2 {
+  flex: 0 0 auto;
+  left: -6px;
+  width: 50px;
+  bottom: -288px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #e12121;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon04 {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-rightbutton1 {
+  top: 225px;
+  flex: 0 0 auto;
+  right: -8px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #ef1414;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon06 {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-image1 {
+  width: 1044px;
+  height: 50vh;
+  object-fit: cover;
+}
+.sidebar-slide3 {
+  flex: 0 0 auto;
+  width: 1322px;
+  height: 489px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.sidebar-leftbutton2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.sidebar-container3 {
+  flex: 0 0 auto;
+  left: -6px;
+  width: 50px;
+  bottom: -288px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #e12121;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon08 {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-rightbutton2 {
+  top: 225px;
+  flex: 0 0 auto;
+  right: -8px;
+  width: 50px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-color: #ef1414;
+  border-style: dashed;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ef1414;
+}
+
+.sidebar-icon10 {
+  fill: #D9D9D9;
+  width: 24px;
+  height: 24px;
+}
+.sidebar-image2 {
+  width: 1044px;
+  height: 50vh;
+  object-fit: cover;
+}

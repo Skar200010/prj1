@@ -1,0 +1,12 @@
+<div class="carousel">
+    <div class="carousel-container">
+      <div class="logo"><img src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/8069142d-4f16-4d49-95a8-fb9e25f867f8/d25e6626-36af-4aa2-91dc-8cc1195632c6?org_if_sml=1"></div>
+      <div class="logo"><img src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/8069142d-4f16-4d49-95a8-fb9e25f867f8/b51e6355-e207-4826-83db-80dc0a32fdbe?org_if_sml=1"></div>
+      <div class="logo"><img src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/8069142d-4f16-4d49-95a8-fb9e25f867f8/b51e6355-e207-4826-83db-80dc0a32fdbe?org_if_sml=1"></div>
+      <div class="logo"><img src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/8069142d-4f16-4d49-95a8-fb9e25f867f8/85591017-4698-4199-bf57-76c21e7a7383?org_if_sml=1"></div>
+      <div class="logo"><img src="logo5.png"></div>
+      <div class="logo"><img src="logo6.png"></div>
+    </div>
+    <button class="prev-button">&lt;</button>
+    <button class="next-button">&gt;</button>
+  </div>
